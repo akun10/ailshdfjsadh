@@ -1,5 +1,4 @@
-# Biomimetic_AI_interface
-This is the code for paper "Biomimetic hairy affective touch sensory AI interface"
+
 
 ## System requirements
 - Matlab >= R2021b
